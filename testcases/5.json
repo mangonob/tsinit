@@ -1,0 +1,9 @@
+{
+  "list": [{ "id01": null }, { "id02": [] }],
+  "verbose_info": {
+    "name": "Tom",
+    "age": 18,
+    "sex": false,
+    "accessToken": "1234567890"
+  }
+}
