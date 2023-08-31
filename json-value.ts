@@ -1,1 +1,1 @@
-export type JSONValue = ?
+export type JSONValue = unknown;
